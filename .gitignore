@@ -1,0 +1,12 @@
+lib
+dist
+node_modules
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+.env.prod
+.env.dev
+.env.stage
